@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "endrek:item/tools/diamond_dagger"
+  }
+}
